@@ -31,7 +31,7 @@ The workflow is implemented as a **Google Colab notebook** and is designed for:
 
 ## Methodology (Conceptual)
 1. **Target Variable (Teacher)**
-   - SoilGrids SOC stock (0–5 cm depth, ~250 m)
+   - SoilGrids SOC stock (0–30 cm depth, ~250 m)
 
 2. **Predictors (Students)**
    - Vegetation indices from Landsat:
